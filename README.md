@@ -1,2 +1,2 @@
-# my-note
-Simple RESTful API
+# gNote
+Simple note
