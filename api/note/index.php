@@ -1,5 +1,5 @@
 <?php 
-include_once 'database/db.php';
+include_once '../database/db.php';
 
 $sql = "SELECT * FROM tb_note";
 $result = $db->query($sql);

@@ -1,5 +1,5 @@
 <?php 
-include_once 'database/db.php';
+include_once '../database/db.php';
 
 $title = addslashes(htmlentities($_POST['title']));
 $content = addslashes(htmlentities($_POST['content']));
